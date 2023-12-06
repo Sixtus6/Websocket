@@ -1,4 +1,4 @@
-# Websocket
+# WebSocket
 
 Discover real-time communication with a Flutter app showcasing WebSocket implementation. Explore seamless integration in a user-friendly interface. Experience the power of instant data exchange firsthand.
 
