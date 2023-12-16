@@ -2,6 +2,13 @@
 
 Discover real-time communication with a Flutter app showcasing WebSocket implementation. Explore seamless integration in a user-friendly interface. Experience the power of instant data exchange firsthand.
 
+## Demo Video
+
+
+https://github.com/Sixtus6/Websocket/assets/72328675/8f92bb41-8633-42a8-8584-f45b51b7209b
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
